@@ -1,26 +1,27 @@
-<h1 align="center">
+![Screenshot_26-6-2024_221352_localhost](https://github.com/Shreya257/employee-crud-app/assets/76741091/772a1038-8259-4441-9cc4-573eba71fa15)<h1 align="center">
   <a href="https://Shreya257.github.io/crud-app/">
-    CRUD App
+    Employee CRUD App
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Shreya257/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
+  <a href="https://github.com/Shreya257/employee-crud-app/actions?query=workflow%3A%22Node.js+CI%22">
     <img src="https://github.com/Shreya257/employee-crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
-  <a href="https://github.com/Shreya257/crud-app/releases">
-    <img src="https://img.shields.io/github/v/release/Shreya257/crud-app" alt="GitHub Release (latest by date)" />
+  <a href="https://github.com/Shreya257/employee-crud-app/releases">
+    <img src="https://img.shields.io/github/v/release/Shreya257/employee-crud-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/Shreya257/crud-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Shreya257/crud-app" alt="License" />
+  <a href="https://github.com/Shreya257/employee-crud-app/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Shreya257/employee-crud-app" alt="License" />
   </a>
 </p>
+![employee-crud-app](https://github.com/Shreya257/employee-crud-app/assets/76741091/c8bf0809-e769-48f2-8c4f-bfeab8d72522)
 
 <p align="center">
   A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
 </p>
 
-![crud-app](https://user-images.githubusercontent.com/48409548/94567114-8aa5ea80-0284-11eb-99f6-87401b099848.png)
+
 
 ## Technologies Used
 
