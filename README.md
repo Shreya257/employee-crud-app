@@ -1,4 +1,4 @@
-  <a href="https://Shreya257.github.io/crud-app/">
+  <a href="https://Shreya257.github.io/employee-crud-app/">
     Employee CRUD App
   </a>
 </h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
+  A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">Employee CRUD</a> application built with <a href="https://reactjs.org">React</a>.
 </p>
 
 ![employee-crud-app](https://github.com/Shreya257/employee-crud-app/assets/76741091/5a5bf4c8-842b-43b0-b6bd-fff5f15b7261)
@@ -33,8 +33,8 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/Shreya257/crud-app.git
-cd crud-app
+git clone https://github.com/Shreya257/employee-crud-app.git
+cd employee-crud-app
 ```
 
 Install dependencies:
@@ -62,8 +62,8 @@ and then you can open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-CRUD App is built and maintained by [Shreya257](https://Shreya257.github.io).
+Employee CRUD App is built and maintained by [Shreya257](https://Shreya257.github.io).
 
 ## License
 
-CRUD App is open-source software licensed under the [MIT License](https://github.com/Shreya257/crud-app/blob/master/LICENSE).
+Employee CRUD App is open-source software licensed under the [MIT License](https://github.com/Shreya257/employee-crud-app/blob/master/LICENSE).
