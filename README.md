@@ -14,8 +14,7 @@
     <img src="https://img.shields.io/github/license/Shreya257/employee-crud-app" alt="License" />
   </a>
 </p>
-![employee-crud-app](https://github.com/Shreya257/employee-crud-app/assets/76741091/c8bf0809-e769-48f2-8c4f-bfeab8d72522)
-
+![Screenshot_26-6-2024_221352_localhost](https://github.com/Shreya257/employee-crud-app/assets/76741091/772a1038-8259-4441-9cc4-573eba71fa15)<h1 align="center">
 <p align="center">
   A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
 </p>
