@@ -1,4 +1,3 @@
-![Screenshot_26-6-2024_221352_localhost](https://github.com/Shreya257/employee-crud-app/assets/76741091/772a1038-8259-4441-9cc4-573eba71fa15)<h1 align="center">
   <a href="https://Shreya257.github.io/crud-app/">
     Employee CRUD App
   </a>
