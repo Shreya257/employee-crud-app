@@ -14,11 +14,12 @@
     <img src="https://img.shields.io/github/license/Shreya257/employee-crud-app" alt="License" />
   </a>
 </p>
-![Screenshot_26-6-2024_221352_localhost](https://github.com/Shreya257/employee-crud-app/assets/76741091/772a1038-8259-4441-9cc4-573eba71fa15)<h1 align="center">
+
 <p align="center">
   A simple and beautiful <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
 </p>
 
+![employee-crud-app](https://github.com/Shreya257/employee-crud-app/assets/76741091/5a5bf4c8-842b-43b0-b6bd-fff5f15b7261)
 
 
 ## Technologies Used
