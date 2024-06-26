@@ -362,6 +362,10 @@ html {
   box-sizing: inherit;
 }
 
+h1{
+  text-align: center;
+}
+
 figure {
   margin: 0;
 }
@@ -378,8 +382,8 @@ html {
 }
 
 body {
-  color: #404040;
-  background: white;
+  color: black;
+  background: linear-gradient(90deg, white 0%, lightgreen 80%, darkblue 100%);
   font-size: 1rem;
 }
 
@@ -503,7 +507,7 @@ blockquote cite {
 pre {
   border: 0;
   border-radius: 4px;
-  background: transparent;
+  background: white;
   padding: 1rem;
   tab-size: 2;
   color: #404040;
@@ -519,7 +523,7 @@ pre code {
 
 kbd {
   background-color: #f7f7f7;
-  border: 1px solid #ccc;
+  border: 1px solid grey;
   border-radius: 3px;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
   color: #333;
@@ -870,8 +874,9 @@ a.accent-button:active {
 
 .muted-button,
 a.muted-button {
-  background: transparent;
-  border: 1px solid #cdcdcd;
+  background: lightgrey;
+  border: 1px solid darkblue;
+  border-width: 0.05cm;
   color: #4e4e4e;
 }
 
@@ -882,8 +887,8 @@ a.muted-button:hover,
 a.muted-button:focus,
 a.muted-button:active {
   color: #4e4e4e;
-  border: 1px solid #818181;
-  background: transparent;
+  border: 1px solid black;
+  background: white;
 }
 
 .round-button,
@@ -922,11 +927,11 @@ a.full-button {
 select,
 textarea {
   display: block;
-  border: 1px solid #dedede;
+  border: 1px solid black;
   border-radius: 4px;
   padding: 0.75rem;
   outline: none;
-  background: transparent;
+  background: blur;
   margin-bottom: 0.5rem;
   font-size: 1rem;
   width: 100%;
@@ -1088,11 +1093,11 @@ table {
 }
 
 thead th {
-  border-bottom: 2px solid #dedede;
+  border-bottom: 2px solid grey;
 }
 
 tfoot th {
-  border-top: 2px solid #dedede;
+  border-top: 2px solid grey;
 }
 
 td {
@@ -1112,7 +1117,7 @@ caption {
 }
 
 .striped-table tbody tr:nth-child(odd) {
-  background-color: #f8f8f8;
+  background-color: skyblue;
 }
 
 .contain-table {
