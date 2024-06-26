@@ -1,8 +1,8 @@
 {
-  "name": "crud-app",
+  "name": "employee-crud-app",
   "version": "3.3.0",
   "private": true,
-  "homepage": "https://Shreya257.github.io/crud-app/",
+  "homepage": "https://Shreya257.github.io/employee-crud-app/",
   "author": "Shreya257 (https://Shreya257.github.io)",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "description": "<h1 align=\"center\">   <a href=\"https://Shreya257.github.io/crud-app/\">     CRUD App   </a> </h1>",
+  "description": "<h1 align=\"center\">   <a href=\"https://Shreya257.github.io/employee-crud-app/\">     CRUD App   </a> </h1>",
   "main": "index.js",
   "license": "ISC"
 }
