@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Shreya257/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/Shreya257/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+    <img src="https://github.com/Shreya257/employee-crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
   <a href="https://github.com/Shreya257/crud-app/releases">
     <img src="https://img.shields.io/github/v/release/Shreya257/crud-app" alt="GitHub Release (latest by date)" />
